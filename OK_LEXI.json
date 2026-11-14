@@ -3,7 +3,7 @@
   "wake_word": "OK lexi",
   "author": "Stuart Langley",
   "website": "",
-  "model": "OK_LEXI.tflite",
+  "model": "https://raw.githubusercontent.com/boulderstu1/Trained-Models/main/OK_LEXI.tflite",
   "trained_languages": ["en"],
   "version": 2,
   "micro": {
