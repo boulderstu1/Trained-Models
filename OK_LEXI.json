@@ -4,7 +4,6 @@
   "author": "Stuart Langley",
   "website": "",
   "model": "./OK_LEXI.tflite",
-  "trained_languages": ["en"],
   "version": 1,
   "micro": {
     "probability_cutoff": 0.97,
