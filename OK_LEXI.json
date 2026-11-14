@@ -2,7 +2,7 @@
   "type": "micro",
   "wake_word": "OK lexi",
   "author": "Stuart Langley",
-  "website": "",
+  "website": "https://github.com/boulderstu1/Trained-Models",
   "model": "./OK_LEXI.tflite",
   "version": 1,
   "micro": {
